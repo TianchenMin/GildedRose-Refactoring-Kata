@@ -3,4 +3,7 @@
 .coverage
 .idea/
 *.iml
-.venv
+.venv.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
